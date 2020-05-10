@@ -1,6 +1,6 @@
 # MothersDayCard
 
-Test it at: atankera.github.io/MothersDayCard
+Test it at: https://atankera.github.io/MothersDayCard/
 
 With Help from Anna K.
 
